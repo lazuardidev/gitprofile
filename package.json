@@ -7,10 +7,10 @@
   "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/lazuardidev/gitprofile.git"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/lazuardidev/gitprofile/issues"
   },
   "scripts": {
     "dev": "vite",
