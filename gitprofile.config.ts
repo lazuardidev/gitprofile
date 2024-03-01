@@ -52,31 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
-    description: '',
+    title: 'Portfolio of Bintang Lazuardi',
+    description: 'Frontend Developer',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'bintang-lazuardi-2ab278222',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'lazuardidev',
-    dev: 'lazuardidev',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
+    telegram: '@bintanglazuardi',
+    website: 'https://lazuardidev.github.io/gitprofile/',
     phone: '',
     email: 'bintanglazuardi70@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.cakeresume.com/s--8_Jj-BCrU1i9GBxztw-6qw--/bintang-lazuardi-0c095c', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -96,46 +96,46 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'PT Activa Digital Indonesia',
+      position: 'Frontend Developer',
+      from: 'December 2022',
+      to: 'November 2023',
+      companyLink: 'https://activa.co.id/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'PT. Bixbox Teknologi Perkasa',
+      position: 'Software Developer',
+      from: 'November 2021',
+      to: 'December 2022',
+      companyLink: 'https://refactory.id/',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Front-End Web Developer Expert',
+      body: 'Dicoding Indonesia',
+      year: 'February 2024',
+      link: 'https://www.dicoding.com/certificates/QLZ94E6OMP5D',
+    },
+    {
+      name: 'React Web Developer Expert',
+      body: 'Dicoding Indonesia',
+      year: 'February 2024',
+      link: 'https://www.dicoding.com/certificates/0LZ0256ERX65',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Gadjah Mada University',
+      degree: 'Associate Degree in Computer and Information Systems',
+      from: '2018',
+      to: '2021',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -147,7 +147,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
